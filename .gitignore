@@ -12,7 +12,7 @@
 
 #Config launchSettings.json
 
-launchSettings.json
+/FundacionAma.Api/appsettings.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -362,3 +362,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# appsettings.Development 
+/FundacionAMA.API/appsettings.Development.json
+
+# appsettings.Development 
+/FundacionAMA.API/appsettings.json
